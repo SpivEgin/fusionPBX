@@ -1,2 +1,0 @@
-# videoSwitch
-FreeSwitch Source 
